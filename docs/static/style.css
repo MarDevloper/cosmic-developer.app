@@ -1,0 +1,136 @@
+@font-face {
+  font-family:"ar";
+  font-style:normal;
+  font-weight:normal;
+  src:url("../fonts/droidnaskh-regular-webfont.woff2") format("woff2"),
+  url("../fonts/droidnaskh-regular-webfont.woff") format("woff"),
+  url("../fonts/droidnaskh-regular-webfont.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/droidnaskh-regular-webfont.ttf") format("truetype");
+  font-display:swap;
+ }
+    html,body, h1,h2,h3,h4,h5>p,h6,a,p, .footer code{
+      font-family: "ar";
+    }
+    .p-content {
+      text-align: justify;
+      line-height: 2.6;
+      font-size: 1.2rem !important;
+      color: #001E38 !important;
+    }
+    .more-articles a {font-family: "ar";
+
+      color:#2196F3 !important;
+    }
+    .ads {
+      opacity: 1;
+    }
+
+    .fa-bars {
+      font-size: 1.7rem;
+    }
+
+    .p-content>h5 {
+      /*  margin-bottom: -1rem;*/
+    }
+
+    h1 {
+      font-weight: bold;
+    }
+
+    .posts h5 {
+      font-weight: bold;
+      line-height: normal !important;
+    }
+
+    .posts {
+      line-height: 1.6;
+      text-align: justify;
+    }
+
+    .posts img {}
+
+    .w3-metro-light-green {
+      color: #fff !important;
+      background-color: #99b433 !important
+    }
+
+    .w3-metro-green {
+      color: #fff !important;
+      background-color: #00a300 !important
+    }
+
+    .w3-metro-dark-green {
+      color: #fff !important;
+      background-color: #1e7145 !important
+    }
+
+    .w3-metro-magenta {
+      color: #fff !important;
+      background-color: #ff0097 !important
+    }
+
+    .w3-metro-light-purple {
+      color: #fff !important;
+      background-color: #9f00a7 !important
+    }
+
+    .w3-metro-purple {
+      color: #fff !important;
+      background-color: #7e3878 !important
+    }
+
+    .w3-metro-dark-purple {
+      color: #fff !important;
+      background-color: #603cba !important
+    }
+
+    .w3-metro-darken {
+      color: #fff !important;
+      background-color: #1d1d1d !important
+    }
+
+    .w3-metro-teal {
+      color: #fff !important;
+      background-color: #00aba9 !important
+    }
+
+    .w3-metro-light-blue {
+      color: #000 !important;
+      background-color: #eff4ff !important;
+      font-family: "ar";
+    }
+
+    .w3-metro-blue {
+      color: #fff !important;
+      background-color: #2d89ef !important
+    }
+
+    .w3-metro-dark-blue {
+      color: #fff !important;
+      background-color: #2b5797 !important
+    }
+
+    .w3-metro-yellow {
+      color: #fff !important;
+      background-color: #ffc40d !important
+    }
+
+    .w3-metro-orange {
+      color: #fff !important;
+      background-color: #e3a21a !important
+    }
+
+    .w3-metro-dark-orange {
+      color: #fff !important;
+      background-color: #da532c !important
+    }
+
+    .w3-metro-red {
+      color: #fff !important;
+      background-color: #ee1111 !important
+    }
+
+    .w3-metro-dark-red {
+      color: #fff !important;
+      background-color: #b91d47 !important
+    }
